@@ -95,6 +95,6 @@ public class Budget {
 		for (int i = 0; i < purchases.size(); i++) {
 			rc += "\nPurchase: "+(i+1)+purchases.get(i).getName();
 		}
-		return rc;
+		return rc;:
 	}
 }
